@@ -61,7 +61,7 @@ pip install numpy scipy scikit-image
   `orca_plot filename.gbw -i`
 
   -  type
-  `1 - Enter ypye of plot` and chose `2 - (scf) electron density` or `43 - Electrostatic potential`
+  `1 - Enter type of plot` and chose `2 - (scf) electron density` or `43 - Electrostatic potential`
 
   -  define grid
   `4 - Enter number of grid intervals` and enter same grid as in intial orca.inp
